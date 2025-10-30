@@ -277,9 +277,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or collaboration, please contact:
 
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: [fikriarmia27@gmail.com]
+- LinkedIn: [https://linkedin.com/in/fikri-armia-fahmi-b373b3288]
+- GitHub: [https://github.com/fikriaf]
 
 ---
 
